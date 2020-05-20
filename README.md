@@ -1,4 +1,6 @@
-# coronavirus_council_funding
+# Council bosses 'short-changed' by government fund
+
+![](https://ichef.bbci.co.uk/news/624/cpsprodpb/A903/production/_112076234_covidfundhighest-nc.png)
 
 In May 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52491817) that emergency council funding during the crisis may not be sufficient to cover costs in some areas.
 
@@ -18,6 +20,21 @@ The Shared Data Unit makes data journalism available to news organisations acros
 ## Get the data
 
 The full data with comparisons by area can be found here: https://drive.google.com/file/d/1_KRhl8_iL6poS-okkytuGpQwzMOX1ScY/view?usp=sharing
+
+## Interviews and quotes
+
+* Nick Forbes, council leader, Newcastle City Council 
+* Councillor Marvin Rees, mayor, Bristol 
+* Spokesperson, Local Government Association (LGA) 
+* David Phillips, the Institute for Fiscal Studies (IFS)
+* Councillor John Fuller, Chairman, District Councils Network 
+
+## Visualisation
+
+![](https://ichef.bbci.co.uk/news/624/cpsprodpb/14543/production/_112076238_covidfundlowest-nc.png)
+
+* Share of £3.2bn to support councils, by local authority - highest 
+* Share of £3.2bn to support councils, by local authority - lowest 
 
 ## Related repos
 
