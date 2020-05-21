@@ -17,6 +17,9 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Nottingham Post: [City leader warns government funding not sufficient to deal with coronavirus response](https://www.nottinghampost.com/news/local-news/how-much-extra-coronavirus-funding-4106461) *5 May 2020*
 * Portsmouth News: [Hampshire awarded less cash per person than most areas in country to deal with Covid-19](https://www.portsmouth.co.uk/news/politics/hampshire-awarded-less-cash-person-most-areas-country-deal-covid-19-2843684) *5 May 2020*
 * Surrey Live: [Surrey councils to receive nearly £60 million in extra coronavirus funding](https://www.getsurrey.co.uk/news/surrey-news/surrey-councils-receive-nearly-60-18205137) *6 May 2020*
+* Bedford Today: [Bedfordshire councils 'benefited more from emergency coronavirus cash than initial funding'](https://www.bedfordtoday.co.uk/news/politics/bedfordshire-councils-benefited-more-emergency-coronavirus-cash-initial-funding-2848131) *10 May 2020*
+* Yorkshire Live: [More than half of small businesses in Kirklees have been given emergency grant](https://www.examinerlive.co.uk/news/west-yorkshire-news/more-half-small-businesses-kirklees-18171213) *29 April 2020*
+* InYourArea: [Fewer than half of small businesses eligible for emergency government grants](https://www.inyourarea.co.uk/news/fewer-than-half-of-small-businesses-eligible-for-emergency-government-grants/) *1 May 2020*
 
 ## Get the data
 
