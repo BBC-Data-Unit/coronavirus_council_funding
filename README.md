@@ -37,8 +37,8 @@ The full data with comparisons by area can be found [here](https://drive.google.
 
 ![](https://ichef.bbci.co.uk/news/624/cpsprodpb/14543/production/_112076238_covidfundlowest-nc.png)
 
-* Share of £3.2bn to support councils, by local authority - highest 
-* Share of £3.2bn to support councils, by local authority - lowest 
+* Bar chart: Share of £3.2bn to support councils, by local authority - highest 
+* Bar chart: Share of £3.2bn to support councils, by local authority - lowest 
 
 ## Related repos
 
